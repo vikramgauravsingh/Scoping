@@ -53,6 +53,9 @@ redeploys automatically — no manual steps needed.
 - Saved quotations (via the "Save Quotation (JSON)" button in the app) are
   plain JSON files downloaded to your machine — nothing is stored server-side
   or in this repo.
+- The "Generate Quotation" / "Generate Engagement Letter (SOW)" buttons render
+  the document in-page (not a new tab) so it always inherits the app's own
+  stylesheet — use "Print / Save PDF" from there to export.
 - The tool's estimates (effort hours, domain checklists) are a starting point
   for scoping conversations, not professional/legal advice — have a subject
   matter reviewer sanity-check figures before they go into a client-facing
